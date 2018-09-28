@@ -137,25 +137,27 @@ Audios y videos ->  [AQUÍ](https://drive.google.com/drive/folders/18eOeU0xGi3ch
 ![affinity map financial](https://user-images.githubusercontent.com/39272944/46187847-435a7d00-c2ab-11e8-8bb3-bab689b0d345.jpg)
 
 
+### Customer Journey Map 
+
+![customer](https://user-images.githubusercontent.com/39272944/46211163-6fe8b600-c2f8-11e8-8cc4-2a2fb0a0d3de.jpg)
+
+
+### User Persona 
+![userperson](https://user-images.githubusercontent.com/39272944/46187929-d3002b80-c2ab-11e8-90cc-2c828a80f6f4.jpg)
+
 ## Benchmark 
 Para tener un panorama más claro y certero de los consultores infancieros(aplicaciones) de banca móvil decidimos realizar un cuadro de Benchmarking de las plataformas  líderes en nuestro país ,USA y el  continente Europeo . Realizamos la investigación previa de estas dos últimas aplicaciones ya que nuestro cliente se sintió "atraído" por las funciones que enfocan como principales.
 
 ![benchmark](https://user-images.githubusercontent.com/30779762/45950781-cedfbf80-bfc6-11e8-94dc-dc50d32158c5.jpg)
 
-### Customer Journey Map 
-
-![customer j m](https://user-images.githubusercontent.com/30779762/45953561-10c13380-bfd0-11e8-993d-27058a8a866e.jpg)
-
-https://www.canva.com/design/DADEK3bpn3M/6RtQ4lMOF7bxpkAbmyyu4w/edit
+![captura](https://user-images.githubusercontent.com/39272944/46211453-2e0c3f80-c2f9-11e8-8fec-d98e63c18d35.PNG)
 
 
-### User Persona 
-![userperson](![userperson](https://user-images.githubusercontent.com/39272944/46187929-d3002b80-c2ab-11e8-90cc-2c828a80f6f4.jpg)
-
-
-## Modificaciones que se deberían hacer
- Acción: Para solucionar este problema se configurará esta opción por una más adecuada al tema de la aplicación ,recordar que es sobre su vida financiera , como su “diario personal financiero” no creemos que su foto debería ser una acción importante para ellos.
-
+## Acciones
+- Para solucionar este problema se configurará esta opción por una más adecuada al tema de la aplicación ,recordar que es sobre su vida financiera , como su “diario personal financiero” no creemos que su foto debería ser una acción importante para ellos.
+- Por qué decidimos cambiar el nombre y el logo 
+- Por qué decidimos crear dos personajes.
+- Por qué decidimos gamificar la aplicación.
 
 ## ETAPA 3: PROTOTIPADO Y TESTING
 
