@@ -1,6 +1,6 @@
 # Aplicación financiera "Tus Finanzas"
 
-## Prólogo 
+## Contexto
 "Banco Perú" lanza  al mercado una app móvil financiera  para fomentar el ahorro y que sus usuarios puedan visualizar sus gastos mensuales.
 
  Transcurren seis meses tras el lanzamiento del producto al mercado y  luego de tener resultados, el equipo encargado de esta aplicación contacta a **CM UX Consulting** para que validen lo realizado, definan la dirección y evolución del producto. 
@@ -151,7 +151,9 @@ Audios y videos ->  [AQUÍ](https://drive.google.com/drive/folders/18eOeU0xGi3ch
 Para tener un panorama más claro y certero de los consultores infancieros(aplicaciones) de banca móvil decidimos realizar un cuadro de Benchmarking de las plataformas  líderes en nuestro país ,USA y el  continente Europeo . Realizamos la investigación previa de estas dos últimas aplicaciones ya que nuestro cliente se sintió "atraído" por las funciones que enfocan como principales.
 
 ![benchmark](https://user-images.githubusercontent.com/30779762/45950781-cedfbf80-bfc6-11e8-94dc-dc50d32158c5.jpg)
+## Benchmark II 
 
+Realizamos un segundo cuadro de benchmarking con aplicaciones más referentes a las funciones que cuenta la aplicación 
 ![captura](https://user-images.githubusercontent.com/39272944/46211453-2e0c3f80-c2f9-11e8-8fec-d98e63c18d35.PNG)
 
 
@@ -179,14 +181,24 @@ Para tener un panorama más claro y certero de los consultores infancieros(aplic
 ## Acciones
 
 - Al realizar *testing* a más de 10 usuarios  e implementar herramientas con diversos resultados ; recolectamos información valiosa para reestructurar acciones con fundamentos : 
--Aplicación disponible para dispositivos Android : Según estudios .Android lidera el mercado en dispositivos como ya lo mencionamos anteriormente entonces decidimos romper la brecha de rechazo que se genera en el Landing Page y así enfocarnos en la mayoría de los usuarios ( esta decisión se consideró desde un principio cuando las entrevistas y testeos se estaban realizando)
--Cambio de nombre de App: 
--Gamificar la aplicación :
--Se decidió cambiar el nombre a Tueke que da significado a Tu ekeko = Dios de la abundancia ,prosperidad y alegría.  Buscamos establecer la identificación del  usuario , teniendo como referencia al ekeko como guía en toda su experiencia en Tueke. Se decidió implementar la técnica de "gamificación" para así lograr que todos los usuarios utilizen la aplicación de manera educativa y dinámica donde reciba reconocimientos cada vez que realize alguna acción importante como la de registrarte o crear una meta de ahorro ;superan el nivel y asu vez comienzan a ahorrar realmente de una forma divertida.
-- Para solucionar este problema se configurará esta opción por una más adecuada al tema de la aplicación ,recordar que es su “diario personal financiero” ,
-- Por qué decidimos cambiar el nombre y el logo 
-- Por qué decidimos crear dos personajes.
-- Por qué decidimos gamificar la aplicación.
+
+- Aplicación disponible para dispositivos Android : Según estudios .Android lidera el mercado en dispositivos como ya lo mencionamos anteriormente entonces decidimos romper la brecha de rechazo que se genera en el Landing Page y así enfocarnos en la mayoría de los usuarios ( esta decisión se consideró desde un principio cuando las entrevistas y testeos se estaban realizando)
+
+
+
+- Gamificar la aplicación :
+
+- Creación de dos personajes:
+
+
+ 
+- Cambio de nombre de App:  
+Se decidió cambiar el nombre a Tueke que da significado a Tu ekeko = Dios de la abundancia ,prosperidad y alegría.  Buscamos establecer la identificación del  usuario , teniendo como referencia al ekeko como guía en toda su experiencia en Tueke. Se decidió implementar la técnica de "gamificación" para así lograr que todos los usuarios utilizen la aplicación de manera educativa y dinámica donde reciba reconocimientos cada vez que realize alguna acción importante como la de registrarte o crear una meta de ahorro ;superan el nivel y asu vez comienzan a ahorrar realmente de una forma divertida.
+
+*Para solucionar este problema se configurará esta opción por una más adecuada al tema de la aplicación ,recordar que es su “diario personal financiero” 
+
+- Por qué decidimos cambiar el nombre y el logo:
+
 
 
   ## Inversión  de presupuesto de marketing
@@ -194,26 +206,30 @@ Para tener un panorama más claro y certero de los consultores infancieros(aplic
 * De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,  estos deberán ser diseñados y entregados en un prototipo de alta definición. 
 
 
-## Link de Zeplin, InVision inspects o Marvel Hand-offs 
+## Link de Zeplin 
+https://zpl.io/bJvjqY3
 
 
--Aquí colocar link -
 
 ## Video en Loom 
- -5 minutos explicando nuestro proyecto
-* Video
+
+-
+
+##  Prototipo de alta fidelidad
+
+
+- https://www.figma.com/file/eZkr6o19H7BRBegrilNSro0P/Iteraci%C3%B3n?node-id=0%3A1
+
+- https://marvelapp.com/36f8hab/
+
 
 
 ### Hacker edition
 
   Aprendizajes durante el proyecto 1, lecciones .
-  
- "Nuestros Compromisos" en Drive: 
+
+-Decidimos colocar nuestros pensamientos recordando los objetivos del proyecto.
+
+ - "Nuestros Compromisos" en Drive: 
  https://docs.google.com/spreadsheets/d/1Ux3PyXuS289JjaWPev6CGGXU8DABUePRA0exEhWMFrI/edit?usp=drive_web&ouid=107615950824336846725
 
-##  Prototipo de alta fidelidad
-
-
-- Aquí figma 
-
-- Prototipo en Marvel
