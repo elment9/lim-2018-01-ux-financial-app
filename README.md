@@ -1,49 +1,60 @@
-# Aplicación financiera "Tus Finanzas"
+# Aplicación financiera  "Tus Finanzas"
 
-## Prólogo 
+[Entregables cliente](https://docs.google.com/presentation/d/1a7Gg5cm6RQ6Tpc5niWWZdyxEW_VK-ukILHK3xWbVcOY/edit?usp=sharings)
+
+## 1. CONTEXTO
+
  “El banco más importante del país” lanza  al mercado una app móvil financiera  para fomentar el ahorro y que sus usuarios puedanos puedan visualizar sus gastos mensuales.
 
- Transcurren seis meses tras el lanzamiento del producto al mercado y  luego de tener resultados, el equipo encargado de esta aplicación contacta a **CM UX Consulting** para que validen lo realizado, definan la dirección y evolución del producto. 
+ Transcurren seis meses tras el lanzamiento del producto al mercado, pero  no obtienen los resultados esperados. 
+
+ Es así como deciden contratar a **CM UX Consulting** para que realicen el resideseño de la aplicación. 
 
 
-## MVP Actual :
+## 1.1. MVP de Banco Perú
 ![123](https://user-images.githubusercontent.com/30779762/45948437-9be4fe00-bfbd-11e8-942b-659435b80c34.jpg) 
 
-## Landing Page en web :
+## 1.2. Landing Page en web
 ![1235](https://user-images.githubusercontent.com/30779762/45948439-9d162b00-bfbd-11e8-99d9-fc0998a1747b.jpg)
 
-## Objetivos propuestos ante este proyecto: 
-* Nuestro objetivo definido como el principal de todos es asumir el reto de rediseñar una aplicación existente,en este caso; financiera.
-* Socavar nuestro pensamiento crítico,cuestionarnos en todo momento  y  mejorar toma de decisiones .
-* Profundizar nuetra capacidad de  análisis  de la data del producto para así complementar con demás investigación que podamos concluir de nuestro cliente y usuarios. 
-* Al concluir este proyecto ya podremos diferenciar el significado-proceso del  diseño (MarketPlace-Proyecto anterior)  y rediseño de una aplicación  para así definir  una diferente estrategia.
-* Determinar la  dirección de la publicidad( Facebook, otros medios)
+## 1.3. Objetivos académicos propuestos para este proyecto: 
+
+* Asumir el reto de rediseñar una aplicación existente,en este caso, financiera.
+* Socavar nuestro pensamiento crítico, cuestionarnos en todo momento  y  mejorar toma de decisiones.
+* Profundizar nuetra capacidad de  análisis  de data para comprender a nuestros usuarios. 
+* Diferenciar el significado de diseño (Marketplace)  y rediseño de una aplicación  para así definir una estrategia diferente.
+* Definir recomendaciones para nuestros clientes (estrategia de redes socials)
 * Lograr canalizar la conexión entre el usuario y clientes mediante un producto reestructado y validado.
 
-## NUESTRO PROCESO DE REDISEÑO UX
-![process](https://user-images.githubusercontent.com/39272944/46187995-25d9e300-c2ac-11e8-970d-0f6a551ff843.jpg)
+## 1.4. Nuestro proceso de rediseño UX 
+![process](https://user-images.githubusercontent.com/39272944/46588259-e5722600-ca5e-11e8-9a3a-feac95e27213.png)
 
-## ETAPA I:  RESEARCH 
 
-Nuestro cliente nos entregó data(analítica, funnels, etc) sobre el proyecto  en base  ello realizamos un análisis y posteriormente identificamos los siguientes problemas. 
 
-## Problemática 
+## 2. RESEARCH / PROBLEMÁTICA
 
-## Problemas - Nivel de negocio :
+## 2.1. Objetivo de negocio
 
-![funnel](https://user-images.githubusercontent.com/39272944/46187996-25d9e300-c2ac-11e8-8c7a-de004a88eb3c.jpg)
-
-Debido a la cantidad de datos que tenemos a lo largo de un semestre se tomó la decisión de color todos los porcentajes en  gráficos para poder analizar la data de una manera más clara y detallada. 
-
-*  En las conversiones de app Store: El porcentaje de impresiones sobre instalaciones NO LLEGA AL 25% diario. 
-
-* Aquí se aprecia que solo un 0.005% realiza su registro de cuenta en "Tus Finanzas" de todas las impresiones que se visualizaron en la red social más utilizada: Facebook. 
+* Posicionarse como un banco que brinda una opción adicional a sus clientes y que piensa en fomentar la cultura del ahorro en ellos. Es decir, **Un banco que piensa en sus clientes**
 
 Lee la [guía de entrevista cliente](https://docs.google.com/document/d/1YwZby_rTCJr9cLE497TQacprR1miTEsvCPmqMSS82aU/edit?usp=sharing)
 
 Lee la [Conclusiones](https://docs.google.com/document/d/1QqwOxYmiZ22gr1-Zk3VM9wYUQfdTaq_xE5jYqJdq7W8/edit?usp=sharing)
 
-## Problemas -Nivel de usuario:
+Nuestro cliente nos entregó data(analítica, funnels, etc) sobre el proyecto; en base  ello realizamos un análisis y posteriormente identificamos los siguientes problemas:
+
+## 2.2. Problemas - Nivel de negocio :
+
+![funnel](https://user-images.githubusercontent.com/39272944/46187996-25d9e300-c2ac-11e8-8c7a-de004a88eb3c.jpg)
+
+Debido a la cantidad de datos que tenemos a lo largo de un semestre se tomó la decisión de colocar todos los porcentajes en  gráficos para poder analizar la data de una manera más clara y detallada. 
+
+*  En las conversiones de app Store: El porcentaje de impresiones sobre instalaciones, NO LLEGA AL 25% diario. 
+
+* Solo un 0.005% realiza su registro de cuenta en "Tus Finanzas" de todas las impresiones que se visualizaron en la red social más utilizada: Facebook. 
+
+
+## 2.3. Problemas -Nivel de usuario:
 
 ![androidvsapple](https://user-images.githubusercontent.com/39272944/46187994-25d9e300-c2ac-11e8-9a81-c0fa61a86a33.jpg)
 
@@ -52,15 +63,59 @@ Lee la [Conclusiones](https://docs.google.com/document/d/1QqwOxYmiZ22gr1-Zk3VM9w
 
 * La aplicación no cumple con su objetivo principal: Fomentar la cultura financiera de ahorro, pues  solo un pequeño porcentaje de usuarios se dirige a estas secciones.
 
-![insta](https://user-images.githubusercontent.com/30779762/45953268-2550fc00-bfcf-11e8-9d85-96afdb26e098.jpg)
+* Los usuarios testeados indican que no descargarían  aplicación al observar tan baja puntuación en el “app store". Toman muy en cuenta la opinión de otros al momento de instalar aplicaciones. Tienen una mala percepción antes de utilizar la aplicación (se comprueba al testear desde el momento de instalación de app).
 
-* Los usuarios testeados no descargarían  aplicación al observar tan baja puntuación en el “app store".  Mencionan que dice mucho la opinión de otros al momento de instalar aplicaciones. Tienen una mala percepción antes de utilizar la aplicación (se comprueba al testear desde el momento de instalación de app).
+## 3. ACCIONES
+
+- Destacar la función de ahorros, ya que está relacionado con el objetivo principal del banco.
+- Usar un lenguaje simple y cercano a los usuarios. Reemplazar palabras/frases compleja y/o ambiguas como 'periodicidad' y 'crear cuenta' por otras más comprensibles.
+
+- Plasmar de forma gráfica la sección gastos y todas sus categorías. Además, implementar la función que permita tener acceso a todas las categorías.  Y poder agregar nuevos gastos y categorías.  
+- Establecer una línea gráfica para la aplicación.
+- Con el fin de dinamizar el proceso, decidimos implementar la técnica de gamificación o ludificación. Usamos un sistema de recompenzas e regalos que se otorgan cada que el usuario completa datos o cumple una meta. 
+
+- En concordancia con lo anterior, cambiar el nombre de la aplicación.
+- Por seguridad, se solicitarán los mismos datos que en la app IOS al momento del registro. No obstante, se organizará mejor la estructura.
+- Eliminar el paso 'ingresar huella' y reemplazarla por contraseña.
+-  Los usuarios desean recibir notificaciones cada que tiene que hacer un pago fijo y cuando están sobrepasando cierto monto de dinero.
+- Reestructurar el menú y hacerlo más visible. 
+- Para solucionar este problema se configurará esta opción por una más adecuada al tema de la aplicación ,recordar que es sobre su vida financiera , como su “diario personal financiero” no creemos que su foto debería ser una acción importante para ellos.
+
+## 4. RECOMENDACIONES
+- **Landing Page:** Proponemos una nueva landing que promocione el producto y su descarga para Android. Pueden verla aquí -> 
+- **Facebook:** Crear contenido propio y creativo sobre la aplicación y difundir la información en la página oficial del Banco. Invertir en publicidad, pero asegurarnos de elegir el target correcto. Aquí dejamos un ejemplo.
+
+![Facebook](https://user-images.githubusercontent.com/39272944/46589604-51f62080-ca71-11e8-97aa-45267c2c4386.PNG)
+
+##  5. ENTREGABLES
+
+## 5.1 Prototipo de alta fidelidad
+[Figma](https://www.figma.com/file/eZkr6o19H7BRBegrilNSro0P/Iteraci%C3%B3n?node-id=88%3A2) 
+ 
+
+[Marvel](https://marvelapp.com/36f8hab/) 
+
+## 5.3. Zeplin 
+## 5.4 Video de Loom
+Proceso -> [AQUÍ](https://www.useloom.com/share/67c13adf773b4837812704ff88dfde5d) 
+Interacción -> [AQUÍ](https://www.useloom.com/share/aa811945bd274aaeb3ea461b7a027c8d) 
+
+### 5.5. Hacker edition
+
+- Antes de empezar a desarrollar este proyecto, lista cuáles fueron tus aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te fue con esos retos, ¿los cumpliste? Muestrános esta lista y esta reflexión en un documento adicional (en el formato que prefieras).
+ 
+ "Nuestros Compromisos" en Drive: 
+ https://docs.google.com/spreadsheets/d/1Ux3PyXuS289JjaWPev6CGGXU8DABUePRA0exEhWMFrI/edit?usp=drive_web&ouid=107615950824336846725
+
+## ¿CÓMO DESARROLLAMOS ESTE PROCESO?
+
+Encuentra aquí el detalle de todas las entrevistas y herramientas que utilizamos. 
 
 ## Entrevista con usuarios - Conclusiones 
 
 Total de entrevistad@s: 6 personas.
 
-* La edad de los entrevistados es entre 25 a 51 años. La edad de los que usan app móviles es entre 25  a 42 años. 
+* La edad de los entrevistados es entre 25 a 41 años. La edad de los que usan app móviles es entre 25  a 42 años. 
 
 * La gran mayoría de los entrevistados vive en el sur de Lima
 Android es el sistema operativo que usa la mayoría. 
@@ -98,52 +153,56 @@ Mira la [guía de entrevista con usuarios](https://docs.google.com/document/d/1Y
 
 Audios y videos ->  [AQUÍ](https://drive.google.com/drive/folders/1fmqroB6ZgbFlTSdirmcIe0rDcW9o6tJU?usp=sharing)
 
+________________________________________________________
+
 ## Testing app inicial - Conclusiones
 
 **Total de usuarios testeados**: 5 iOS / 5 Android
 
-- La mayoría de usuarios testeados no quiere agregar foto como acción principal al momento de crearse una nueva cuenta. Reconfirman esta falta de interés cuando mencionan que ni siquiera pueden observarla en el “home”  ,deben de entrar al menú para poder “editarla”. 
+- La mayoría de usuarios testeados prefiere no agregar foto como acción principal al momento de crearse una nueva cuenta. Reconfirman esta falta de interés cuando mencionan que ni siquiera pueden observarla en el “home,deben de entrar al menú para poder “editarla”. 
 
-- Todos los usuarios confirman no entender el significado de la palabra “periodicidad” en este contexto como para escribir la respuesta “semanal”  ( solo uno lo comprende ,pero no la relación que se tiene con el ahorro cuando lee esta palabra) Al presionar el botón continuar ya se entiende solo cuando se lee todo el texto en resumen de lo que pasará en las siguientes semanas con su ahorro creado. 
+- Todos los usuarios confirman no entender el significado de la palabra “periodicidad”. Solo logran entenderlo cuando aparece la siguiente pantalla que indica que se refieren a frecuencia.
 
-- Se concuerda en la mayoría de opiniones que no hay una conexión entre la vista de ahorros y los usuarios .Si les gusta ver esta opción ya que no la han visto en otras aplicaciones pero no parece que se llegan a impactar por el diseño desde el botón principal ( …) No se explica sección de ahorros , solo al momento de “continuar” además de observar “crear cuenta” y no “crear ahorro” = No hay congruencia con este contenido, se hace referencia a la creación de una nueva cuenta.Gracias a este resultado ,junto con el análisis de la data determinamos el rediseño(estructura, color , contenido, % de avance conforme va ahorrando  ) de esta opción ya que “AHORROS” ES la función principal de la aplicación “Tus finanzas”.
+- No hay una conexión entre la vista de ahorros y los usuarios. Les gusta ver esta opción, ya que no la han visto en otras aplicaciones, pero no parece que se llegan a impactar por el diseño. Además, no entienden que por qué en ahorros hay un botón que dice 'crear cuenta'.
 
-- Nuestros usuarios testeados comprendieron los “gastos” en su mayoría pero también se define  que no se estableció una completa conexión ya que no solo quieren observar sus gastos mensuales sin recibir alertas, notificaciones sobre pagar la luz o el cable . Usuarios querían observar la vista de cómo se mostraría contenido de cada categoría de gastos , detalles como con que se gastó( tarjeta de débito o crédito, fecha-hora y lugar) y tener opción a personalizar c/u =editarlos. 
+- Los usuarios no solo desean que la aplicación les permita ver sus gastos y movimientos, si no que les  'avise' cada que se acerca la fecha de pago de servicios y cuando están sobrepasando una meta.
 
+- Comprenden el flujo de gastos, pero hacen clic en cada categoría y esperan encontrar el detalle de gastos allí. Valoraron detalles como: Que muestra con qué tarjeta de débito o crédito se hizo la operación, fecha, hora y lugar. 
 
-- Todos los usuarios concuerdan que el nombre de la aplicación no “llama la atención - mencionan palabras “ serio, simple, sobrio” .Nombre solo muestra palabra general  y no genera impacto al momento de la instalación.
+- Todos los usuarios concuerdan con que el nombre de la aplicación no “llama la atención". También mencionan que les parece muy simple, general y sobrio. 
 
-- Todas las personas que validaron el producto se preocupan por la seguridad de sus datos. Así que confirmamos la reestructuración del ingreso a la aplicación como cambiar de clave semanalmente en caso de pérdida o robo de su dispositivo.
+- Los usuarios coinciden en que la app les parece muy segura por la cantidad de datos que pide al inicio. 
 
-- Tener en cuenta huella digital para IOS(no saben que hacer cuando carga huella, se debe de presionar cierto “punto” establecer punto fijo ) -- Dispositivo Android.
+- Huella digital: Los usuarios de IOS no saben cómo ingresar la huella. En el caso de Android, indican que su celular no cuenta con esa opción. 
 
-- Usuarios no encuentran opción de volver al home cuando están en ahorros ,movimientos o gastos . Falta botón de regreso a inicio. Todos los usuarios mencionan este comentario.
-*Opción de 3 funciones también implica rediseño respecto a cómo se estructuran en el medio del inicio.
+- Usuarios no encuentran opción de volver al home cuando están en ahorros, movimientos o gastos.
 
+- Los usuarios pierden el menú circular. 
+- Inicio: Usuarios quieren encontrar su monto actual en S/. o $ / La tarjeta les parece demasiado grande y poco importante. /
+- Movimientos: los usuarios no observan el origen de la operación(depósito , transferencia ,etc). Comprenden detalles pero se desea que la información se muestre de forma más completa, ordenada y estructurada.
 
-- Usuarios quieren encontrar su monto actual en S/. o $ . No solo números. También   se  menciona sobre tarjeta mostrada en inicio. Más del 50% en nuestros usuarios no la consideran importante. Piensa que se puede ocupar otra función en ese lugar.
-- Respecto a movimientos ,los usuarios no observan el origen de la operación ( depósito , transferencia ,etc) Comprenden detalles pero se desea que la información se muestre de forma más completa, ordenada y estructurada.
-- Se analiza data de usuarios testeados y determinamos que la aplicación YAPE es utilizada con mucha frecuencia por prácticamente todos. 
-+Podríamos tener referencias de esta aplicación junto con la de APP banca móvil -BBVA .Recordar también nuestro cliente tuvo la inspiración de aplicaciones extranjeras de USA y Europa. ( recordar benchmark y tener aplicaciones fijadas al detalle al momento del rediseño de nuestro producto ).
-
-- Lista de meses : Los usuarios aprecian el selector “meses” pero quisieran mayor tamaño de letra, que se diferencie del resto de contenido . 
+- Lista de meses : Los usuarios aprecian el selector “meses” pero quisieran mayor tamaño de letra o que se diferencie del resto de contenido . 
 
 
 Audios y videos ->  [AQUÍ](https://drive.google.com/drive/folders/18eOeU0xGi3ch-ZWW8dl89UobDFkV2Vat?usp=sharing)
 
-## ETAPA II: SÍNTESIS E IDEACIÓN
+_______________________________________________________
 
 ## Affinity map
 ![affinity map financial](https://user-images.githubusercontent.com/39272944/46187847-435a7d00-c2ab-11e8-8bb3-bab689b0d345.jpg)
 
+_______________________________________________________
 
 ### Customer Journey Map 
 
 ![customer](https://user-images.githubusercontent.com/39272944/46211163-6fe8b600-c2f8-11e8-8cc4-2a2fb0a0d3de.jpg)
 
+_______________________________________________________
 
 ### User Persona 
 ![userperson](https://user-images.githubusercontent.com/39272944/46187929-d3002b80-c2ab-11e8-90cc-2c828a80f6f4.jpg)
+
+_______________________________________________________
 
 ## Benchmark 
 Para tener un panorama más claro y certero de los consultores infancieros(aplicaciones) de banca móvil decidimos realizar un cuadro de Benchmarking de las plataformas  líderes en nuestro país ,USA y el  continente Europeo . Realizamos la investigación previa de estas dos últimas aplicaciones ya que nuestro cliente se sintió "atraído" por las funciones que enfocan como principales.
@@ -152,51 +211,8 @@ Para tener un panorama más claro y certero de los consultores infancieros(aplic
 
 ![captura](https://user-images.githubusercontent.com/39272944/46211453-2e0c3f80-c2f9-11e8-8fec-d98e63c18d35.PNG)
 
-
-## Acciones
-- Para solucionar este problema se configurará esta opción por una más adecuada al tema de la aplicación ,recordar que es sobre su vida financiera , como su “diario personal financiero” no creemos que su foto debería ser una acción importante para ellos.
-- Por qué decidimos cambiar el nombre y el logo 
-- Por qué decidimos crear dos personajes.
-- Por qué decidimos gamificar la aplicación.
-
-## ETAPA 3: PROTOTIPADO Y TESTING
-
-## RECOMENDACIONES
-## Próximos desarrollos
-
-  ## Inversión  de presupuesto de marketing
-
-* De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,  estos deberán ser diseñados y entregados en un prototipo de alta definición.
-
-## Link de Zeplin, InVision inspects o Marvel Hand-offs 
-
-
---Aquí colocar link -------------
-
-## Video en Loom 
- -5 minutos explicando nuestro proyecto
-* Estos 5 minutos se tiene que utilizar para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución propuesta.
-
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso.
-
-### Hacker edition
+_______________________________________________________
 
 
 
-- Antes de empezar a desarrollar este proyecto, lista cuáles fueron tus
-  aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante 
-  el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te 
-  fue con esos retos, ¿los cumpliste? Muestrános esta lista y esta reflexión
-  en un documento adicional (en el formato que prefieras).
- 
- "Nuestros Compromisos" en Drive: 
- https://docs.google.com/spreadsheets/d/1Ux3PyXuS289JjaWPev6CGGXU8DABUePRA0exEhWMFrI/edit?usp=drive_web&ouid=107615950824336846725
 
-##  Prototipo de alta fidelidad
-
-
-- Figma 
-
--Prototipo en Marvel
