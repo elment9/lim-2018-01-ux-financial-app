@@ -4,7 +4,12 @@
 
 ## 1. CONTEXTO
 
+<<<<<<< HEAD
  “El banco más importante del país” lanza  al mercado una app móvil financiera  para fomentar el ahorro y que sus usuarios puedanos puedan visualizar sus gastos mensuales.
+=======
+## Prólogo 
+"Banco Perú" lanza  al mercado una app móvil financiera  para fomentar el ahorro y que sus usuarios puedan visualizar sus gastos mensuales.
+>>>>>>> 57aa8094cc74c9b3c3cf35fad8fd5622f7022d62
 
  Transcurren seis meses tras el lanzamiento del producto al mercado, pero  no obtienen los resultados esperados. 
 
@@ -17,6 +22,7 @@
 ## 1.2. Landing Page en web
 ![1235](https://user-images.githubusercontent.com/30779762/45948439-9d162b00-bfbd-11e8-99d9-fc0998a1747b.jpg)
 
+<<<<<<< HEAD
 ## 1.3. Objetivos académicos propuestos para este proyecto: 
 
 * Asumir el reto de rediseñar una aplicación existente,en este caso, financiera.
@@ -24,12 +30,33 @@
 * Profundizar nuetra capacidad de  análisis  de data para comprender a nuestros usuarios. 
 * Diferenciar el significado de diseño (Marketplace)  y rediseño de una aplicación  para así definir una estrategia diferente.
 * Definir recomendaciones para nuestros clientes (estrategia de redes socials)
+=======
+## Objetivos propuestos ante este proyecto: 
+
+ ### Objetivos académicos: 
+
+*  Integrar al usuario en todo el proceso de diseño, desde la etapa de research, testing y hasta los KPIS( Indicador Clave de Desempeño).
+* Nuestro objetivo definido como el principal de todos es asumir el reto de rediseñar una aplicación existente,en este caso; financiera.
+* Socavar nuestro pensamiento crítico,cuestionarnos en todo momento  y  mejorar toma de decisiones .
+* Profundizar nuetra capacidad de  análisis, en este caso;la data del producto para así complementar con demás investigación que podamos concluir de nuestro cliente y usuarios. 
+* Al concluir este proyecto ya podremos diferenciar el significado-proceso del  diseño (MarketPlace-Proyecto anterior)  y rediseño de una aplicación  para así definir  una diferente estrategia.
+ 
+### Objetivos planteados para con cliente: 
+
+* Determinar la  dirección de la publicidad( Facebook, otros medios)
+>>>>>>> 57aa8094cc74c9b3c3cf35fad8fd5622f7022d62
 * Lograr canalizar la conexión entre el usuario y clientes mediante un producto reestructado y validado.
 
 ## 1.4. Nuestro proceso de rediseño UX 
 ![process](https://user-images.githubusercontent.com/39272944/46588259-e5722600-ca5e-11e8-9a3a-feac95e27213.png)
 
+<<<<<<< HEAD
 
+=======
+## ETAPA I:    RESEARCH 
+
+Nuestro cliente nos adjuntó un Drive con data de los últimos 6 meses sobre el proyecto  en base a  ello realizamos un extenso análisis extrayendo punto por punto mediante gráficos , posteriormente identificamos los siguientes problemas. 
+>>>>>>> 57aa8094cc74c9b3c3cf35fad8fd5622f7022d62
 
 ## 2. RESEARCH / PROBLEMÁTICA
 
@@ -39,12 +66,17 @@
 
 Lee la [guía de entrevista cliente](https://docs.google.com/document/d/1YwZby_rTCJr9cLE497TQacprR1miTEsvCPmqMSS82aU/edit?usp=sharing)
 
+<<<<<<< HEAD
 Lee la [Conclusiones](https://docs.google.com/document/d/1QqwOxYmiZ22gr1-Zk3VM9wYUQfdTaq_xE5jYqJdq7W8/edit?usp=sharing)
+=======
+Debido a la cantidad de datos que tenemos a lo largo de un semestre se tomó la decisión de colocar todos los porcentajes en  gráficos para poder analizar esta información de una manera más clara y detallada. 
+>>>>>>> 57aa8094cc74c9b3c3cf35fad8fd5622f7022d62
 
 Nuestro cliente nos entregó data(analítica, funnels, etc) sobre el proyecto; en base  ello realizamos un análisis y posteriormente identificamos los siguientes problemas:
 
 ## 2.2. Problemas - Nivel de negocio :
 
+<<<<<<< HEAD
 ![funnel](https://user-images.githubusercontent.com/39272944/46187996-25d9e300-c2ac-11e8-8c7a-de004a88eb3c.jpg)
 
 Debido a la cantidad de datos que tenemos a lo largo de un semestre se tomó la decisión de colocar todos los porcentajes en  gráficos para poder analizar la data de una manera más clara y detallada. 
@@ -52,19 +84,30 @@ Debido a la cantidad de datos que tenemos a lo largo de un semestre se tomó la 
 *  En las conversiones de app Store: El porcentaje de impresiones sobre instalaciones, NO LLEGA AL 25% diario. 
 
 * Solo un 0.005% realiza su registro de cuenta en "Tus Finanzas" de todas las impresiones que se visualizaron en la red social más utilizada: Facebook. 
+=======
+Lee  la [guía de entrevista cliente](https://docs.google.com/document/d/1YwZby_rTCJr9cLE497TQacprR1miTEsvCPmqMSS82aU/edit?usp=sharing)
+>>>>>>> 57aa8094cc74c9b3c3cf35fad8fd5622f7022d62
 
 
 ## 2.3. Problemas -Nivel de usuario:
 
+
+* La gran mayoría de usuarios cuentan con un dispositivo Android,incluyendo a los visitantes al landing page . Esto genera una gran pérdida económica y de valor, opuesto a las expectativas de nuestro cliente
+
 ![androidvsapple](https://user-images.githubusercontent.com/39272944/46187994-25d9e300-c2ac-11e8-9a81-c0fa61a86a33.jpg)
 
 
-* La gran mayoría de visitantes al landing page son usuarios de Android, esto supone una gran pérdida económica y de valor, opuesta al objetivo de posicionamiento que se quiere lograr.
+#### Fuente -- " IOS vrs Android" 
 
-* La aplicación no cumple con su objetivo principal: Fomentar la cultura financiera de ahorro, pues  solo un pequeño porcentaje de usuarios se dirige a estas secciones.
+https://clipset.20minutos.es/ios-contra-android-quien-gana-la-batalla/
+
+* La aplicación no cumple con su objetivo principal: Fomentar la cultura financiera de ahorro. Solo un pequeño porcentaje de usuarios se dirige a esta sección. 
+
+* Los usuarios testeados no descargarían  aplicación al observar tan baja puntuación en el “app store".  Mencionan que dice mucho la opinión de otros al momento de instalar aplicaciones. Tienen una mala percepción antes de utilizar la aplicación (se comprueba al testear desde el momento de la instalación de app).
 
 * Los usuarios testeados indican que no descargarían  aplicación al observar tan baja puntuación en el “app store". Toman muy en cuenta la opinión de otros al momento de instalar aplicaciones. Tienen una mala percepción antes de utilizar la aplicación (se comprueba al testear desde el momento de instalación de app).
 
+<<<<<<< HEAD
 ## 3. ACCIONES
 
 - Destacar la función de ahorros, ya que está relacionado con el objetivo principal del banco.
@@ -110,8 +153,11 @@ Interacción -> [AQUÍ](https://www.useloom.com/share/aa811945bd274aaeb3ea461b7a
 ## ¿CÓMO DESARROLLAMOS ESTE PROCESO?
 
 Encuentra aquí el detalle de todas las entrevistas y herramientas que utilizamos. 
+=======
+    
+>>>>>>> 57aa8094cc74c9b3c3cf35fad8fd5622f7022d62
 
-## Entrevista con usuarios - Conclusiones 
+## 2- Entrevista con usuarios - Conclusiones 
 
 Total de entrevistad@s: 6 personas.
 
@@ -188,12 +234,24 @@ Audios y videos ->  [AQUÍ](https://drive.google.com/drive/folders/18eOeU0xGi3ch
 
 _______________________________________________________
 
+## Benchmark 
+Para tener un panorama más claro y certero de los consultores infancieros(aplicaciones) de banca móvil decidimos realizar un cuadro de Benchmarking de las plataformas  líderes en nuestro país ,USA y el  continente Europeo . Realizamos la investigación previa de estas dos últimas aplicaciones ya que nuestro cliente se sintió "atraído" por las funciones que enfocan como principales.
+
+![benchmark](https://user-images.githubusercontent.com/30779762/45950781-cedfbf80-bfc6-11e8-94dc-dc50d32158c5.jpg)
+
+![captura](https://user-images.githubusercontent.com/39272944/46211453-2e0c3f80-c2f9-11e8-8fec-d98e63c18d35.PNG)
+
+
 ## Affinity map
+
+*Sintetizamos la  información mediante la asociasión de categorías para encontrar la conexión entre las ideas en común y recurrentes. 
+
 ![affinity map financial](https://user-images.githubusercontent.com/39272944/46187847-435a7d00-c2ab-11e8-8bb3-bab689b0d345.jpg)
 
 _______________________________________________________
 
-### Customer Journey Map 
+
+## Customer Journey Map 
 
 ![customer](https://user-images.githubusercontent.com/39272944/46211163-6fe8b600-c2f8-11e8-8cc4-2a2fb0a0d3de.jpg)
 
@@ -202,17 +260,63 @@ _______________________________________________________
 ### User Persona 
 ![userperson](https://user-images.githubusercontent.com/39272944/46187929-d3002b80-c2ab-11e8-90cc-2c828a80f6f4.jpg)
 
+<<<<<<< HEAD
 _______________________________________________________
 
 ## Benchmark 
 Para tener un panorama más claro y certero de los consultores infancieros(aplicaciones) de banca móvil decidimos realizar un cuadro de Benchmarking de las plataformas  líderes en nuestro país ,USA y el  continente Europeo . Realizamos la investigación previa de estas dos últimas aplicaciones ya que nuestro cliente se sintió "atraído" por las funciones que enfocan como principales.
+=======
+>>>>>>> 57aa8094cc74c9b3c3cf35fad8fd5622f7022d62
 
-![benchmark](https://user-images.githubusercontent.com/30779762/45950781-cedfbf80-bfc6-11e8-94dc-dc50d32158c5.jpg)
-
-![captura](https://user-images.githubusercontent.com/39272944/46211453-2e0c3f80-c2f9-11e8-8fec-d98e63c18d35.PNG)
 
 _______________________________________________________
 
+<<<<<<< HEAD
 
 
 
+=======
+## RECOMENDACIONES
+## Próximos desarrollos
+## Acciones
+
+- Al realizar *testing* a más de 10 usuarios  e implementar herramientas con diversos resultados ; recolectamos información valiosa para reestructurar acciones con fundamentos : 
+-Aplicación disponible para dispositivos Android : Según estudios .Android lidera el mercado en dispositivos como ya lo mencionamos anteriormente entonces decidimos romper la brecha de rechazo que se genera en el Landing Page y así enfocarnos en la mayoría de los usuarios ( esta decisión se consideró desde un principio cuando las entrevistas y testeos se estaban realizando)
+-Cambio de nombre de App: 
+-Gamificar la aplicación :
+-Se decidió cambiar el nombre a Tueke que da significado a Tu ekeko = Dios de la abundancia ,prosperidad y alegría.  Buscamos establecer la identificación del  usuario , teniendo como referencia al ekeko como guía en toda su experiencia en Tueke. Se decidió implementar la técnica de "gamificación" para así lograr que todos los usuarios utilizen la aplicación de manera educativa y dinámica donde reciba reconocimientos cada vez que realize alguna acción importante como la de registrarte o crear una meta de ahorro ;superan el nivel y asu vez comienzan a ahorrar realmente de una forma divertida.
+- Para solucionar este problema se configurará esta opción por una más adecuada al tema de la aplicación ,recordar que es su “diario personal financiero” ,
+- Por qué decidimos cambiar el nombre y el logo 
+- Por qué decidimos crear dos personajes.
+- Por qué decidimos gamificar la aplicación.
+
+
+  ## Inversión  de presupuesto de marketing
+
+* De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,  estos deberán ser diseñados y entregados en un prototipo de alta definición. 
+
+
+## Link de Zeplin, InVision inspects o Marvel Hand-offs 
+
+
+-Aquí colocar link -
+
+## Video en Loom 
+ -5 minutos explicando nuestro proyecto
+* Video
+
+
+### Hacker edition
+
+  Aprendizajes durante el proyecto 1, lecciones .
+  
+ "Nuestros Compromisos" en Drive: 
+ https://docs.google.com/spreadsheets/d/1Ux3PyXuS289JjaWPev6CGGXU8DABUePRA0exEhWMFrI/edit?usp=drive_web&ouid=107615950824336846725
+
+##  Prototipo de alta fidelidad
+
+
+- Aquí figma 
+
+- Prototipo en Marvel
+>>>>>>> 57aa8094cc74c9b3c3cf35fad8fd5622f7022d62
