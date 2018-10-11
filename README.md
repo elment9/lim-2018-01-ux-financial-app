@@ -1,11 +1,6 @@
 # Aplicación financiera  "Tus Finanzas"
 
-<<<<<<< HEAD
-## Contexto
-"Banco Perú" lanza  al mercado una app móvil financiera  para fomentar el ahorro y que sus usuarios puedan visualizar sus gastos mensuales.
-=======
 [Entregables cliente](https://docs.google.com/presentation/d/1a7Gg5cm6RQ6Tpc5niWWZdyxEW_VK-ukILHK3xWbVcOY/edit?usp=sharings)
->>>>>>> c1b3515ac0fcfe2ebf7e6de9f87433b6f59112ad
 
 ## 1. CONTEXTO
 
@@ -158,6 +153,8 @@ En muchas de las entrevistas los usuarios destacaron la importancia de ahorrar, 
 [Marvel](https://marvelapp.com/36f8hab/)
 
 ## 5.3. Zeplin
+
+Video  -> https://app.zeplin.io/project/5bbab7a590d58d09c8f780a0
 ## 5.4 Video de Loom
 Proceso -> [AQUÍ](https://www.useloom.com/share/67c13adf773b4837812704ff88dfde5d)
 
@@ -250,21 +247,7 @@ ________________________________________________________
 
 Audios y videos ->  [AQUÍ](https://drive.google.com/drive/folders/18eOeU0xGi3ch-ZWW8dl89UobDFkV2Vat?usp=sharing)
 
-<<<<<<< HEAD
-## ETAPA II: SÍNTESIS E IDEACIÓN
-
-## Benchmark 
-Para tener un panorama más claro y certero de los consultores infancieros(aplicaciones) de banca móvil decidimos realizar un cuadro de Benchmarking de las plataformas  líderes en nuestro país ,USA y el  continente Europeo . Realizamos la investigación previa de estas dos últimas aplicaciones ya que nuestro cliente se sintió "atraído" por las funciones que enfocan como principales.
-
-![benchmark](https://user-images.githubusercontent.com/30779762/45950781-cedfbf80-bfc6-11e8-94dc-dc50d32158c5.jpg)
-## Benchmark II 
-
-Realizamos un segundo cuadro de benchmarking con aplicaciones más referentes a las funciones que cuenta la aplicación 
-![captura](https://user-images.githubusercontent.com/39272944/46211453-2e0c3f80-c2f9-11e8-8fec-d98e63c18d35.PNG)
-
-=======
 _______________________________________________________
->>>>>>> c1b3515ac0fcfe2ebf7e6de9f87433b6f59112ad
 
 ## Affinity map
 ![affinity map financial](https://user-images.githubusercontent.com/39272944/46187847-435a7d00-c2ab-11e8-8bb3-bab689b0d345.jpg)
@@ -284,54 +267,9 @@ _______________________________________________________
 ## Benchmark
 Para tener un panorama más claro y certero de los consultores financieros(aplicaciones) de banca móvil decidimos realizar un cuadro de Benchmarking de las plataformas  líderes en nuestro país ,USA y el  continente Europeo . Realizamos la investigación previa de estas dos últimas aplicaciones ya que nuestro cliente se sintió "atraído" por las funciones que enfocan como principales.
 
-<<<<<<< HEAD
-- Al realizar *testing* a más de 10 usuarios  e implementar herramientas con diversos resultados ; recolectamos información valiosa para reestructurar acciones con fundamentos : 
-
-- Aplicación disponible para dispositivos Android : Según estudios .Android lidera el mercado en dispositivos como ya lo mencionamos anteriormente entonces decidimos romper la brecha de rechazo que se genera en el Landing Page y así enfocarnos en la mayoría de los usuarios ( esta decisión se consideró desde un principio cuando las entrevistas y testeos se estaban realizando)
-
-
-
-- Gamificar la aplicación :
-
-- Creación de dos personajes:
-
-
- 
-- Cambio de nombre de App:  
-Se decidió cambiar el nombre a Tueke que da significado a Tu ekeko = Dios de la abundancia ,prosperidad y alegría.  Buscamos establecer la identificación del  usuario , teniendo como referencia al ekeko como guía en toda su experiencia en Tueke. Se decidió implementar la técnica de "gamificación" para así lograr que todos los usuarios utilizen la aplicación de manera educativa y dinámica donde reciba reconocimientos cada vez que realize alguna acción importante como la de registrarte o crear una meta de ahorro ;superan el nivel y asu vez comienzan a ahorrar realmente de una forma divertida.
-
-*Para solucionar este problema se configurará esta opción por una más adecuada al tema de la aplicación ,recordar que es su “diario personal financiero” 
-
-- Por qué decidimos cambiar el nombre y el logo:
-
-
-
-  ## Inversión  de presupuesto de marketing
-
-* De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,  estos deberán ser diseñados y entregados en un prototipo de alta definición. 
-
-
-## Link de Zeplin 
-https://zpl.io/bJvjqY3
-
-
-
-## Video en Loom 
-
--
-
-##  Prototipo de alta fidelidad
-
-
-- https://www.figma.com/file/eZkr6o19H7BRBegrilNSro0P/Iteraci%C3%B3n?node-id=0%3A1
-
-- https://marvelapp.com/36f8hab/
-
-=======
 ![benchmark](https://user-images.githubusercontent.com/30779762/45950781-cedfbf80-bfc6-11e8-94dc-dc50d32158c5.jpg)
 
 ![captura](https://user-images.githubusercontent.com/39272944/46211453-2e0c3f80-c2f9-11e8-8fec-d98e63c18d35.PNG)
->>>>>>> c1b3515ac0fcfe2ebf7e6de9f87433b6f59112ad
 
 _______________________________________________________
 
