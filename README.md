@@ -126,21 +126,8 @@ En muchas de las entrevistas los usuarios destacaron la importancia de ahorrar, 
 ![grafica](https://user-images.githubusercontent.com/39272944/46592392-e7041400-ca87-11e8-987a-f2f27266d468.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 4. RECOMENDACIONES
-- **Landing Page:** Proponemos una nueva landing que promocione el producto y su descarga para Android. Pueden verla aquí ->
+
 - **Facebook:** Crear contenido propio y creativo sobre la aplicación y difundir la información en la página oficial del Banco. Invertir en publicidad, pero asegurarnos de elegir el target correcto. Aquí dejamos un ejemplo.
 
 ![Facebook](https://user-images.githubusercontent.com/39272944/46589604-51f62080-ca71-11e8-97aa-45267c2c4386.PNG)
@@ -153,6 +140,8 @@ En muchas de las entrevistas los usuarios destacaron la importancia de ahorrar, 
 [Marvel](https://marvelapp.com/36f8hab/)
 
 ## 5.3. Zeplin
+[AQUÍ](htps://app.zeplin.io/project/5bbab7a590d58d09c8f780a0) 
+
 ## 5.4 Video de Loom
 Proceso -> [AQUÍ](https://www.useloom.com/share/67c13adf773b4837812704ff88dfde5d)
 
@@ -166,7 +155,7 @@ https://docs.google.com/spreadsheets/d/1Ux3PyXuS289JjaWPev6CGGXU8DABUePRA0exEhWM
 
 ________________________________________________________
 
-## ¿CÓMO DESARROLLAMOS ESTE PROCESO?
+## ¡CONOCE MÁS SOBRE NUESTRO PROCESO UX! 😚
 
 Encuentra aquí el detalle de todas las entrevistas y herramientas que utilizamos.
 
