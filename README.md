@@ -2,6 +2,9 @@
 
 [Entregables cliente](https://docs.google.com/presentation/d/1a7Gg5cm6RQ6Tpc5niWWZdyxEW_VK-ukILHK3xWbVcOY/edit?usp=sharings)
 
+[Prototipo interactivo](https://marvelapp.com/36f8hab/)
+
+
 ## 1. CONTEXTO
 
 “El banco más importante del país” lanza  al mercado una app móvil financiera  para fomentar el ahorro y que sus usuarios puedan visualizar sus gastos mensuales.
@@ -190,7 +193,7 @@ Android es el sistema operativo que usa la mayoría.
 - Todos usan Yape del BCP
 - Usan más: Transferencias, visualización de saldos, y pago de servicios.
 - Valoran más: Ahorrar tiempo con las aplicaciones, poder visualizar la información que desean sin dificultad/ No tener que pagar dinero extra/ no usar tantos códigos y claves (token)
-- No les gusta: No poder observar toda su información( no poder ver todo su historial de gastos, no especifica en dónde se hizo el gasto) //Tene en cuenta que mostrar todo te pide un request más
+- No les gusta: No poder observar toda su información( no poder ver todo su historial de gastos, no especifica en dónde se hizo el gasto) //Tener en cuenta que mostrar todo te pide un request más(código)
 - Aprendizaje uso: Quiere aprender por su cuenta, y que  no sea tan compleja. Sugieren aprender usando burbujas informativas que no impidan su navegación.
 
 **App ahorros**
